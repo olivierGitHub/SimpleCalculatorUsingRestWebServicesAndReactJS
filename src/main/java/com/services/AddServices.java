@@ -15,9 +15,10 @@ public class AddServices {
     @GET
     @Path("/add")
     @Produces(MediaType.TEXT_HTML)
-    public String doOperationService(@QueryParam("exp1") int exp1, @QueryParam("exp2") int exp2){
+    public int doOperationService(@QueryParam("exp1") int exp1, @QueryParam("exp2") int exp2){
         int res = exp1 + exp2;
-        return "<h1>" + res + "</h1>";
+        //return "<h1>" + res + "</h1>";
+        return res;
     }
 
 

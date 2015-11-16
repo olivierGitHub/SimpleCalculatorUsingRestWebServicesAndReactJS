@@ -1,7 +1,8 @@
 var Reflux = require('reflux');
 
 var ActionsApp = Reflux.createActions([
-    'doOperation'
+    'doOperation',
+    'doOperationWs'
 ]);
 
 
