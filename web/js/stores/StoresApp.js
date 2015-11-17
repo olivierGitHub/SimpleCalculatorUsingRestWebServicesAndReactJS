@@ -1,15 +1,16 @@
 var Reflux = require('reflux');
+var $ = require('jquery');
 var ActionsApp = require('../actions/ActionsApp.js');
 
 
 var StoresApp = Reflux.createStore({
 
-    //listenables: ActionsApp,
+    listenables: ActionsApp,
     init: function() {
         //this.res=[];
         this.res={key1:0};
-        this.listenTo(ActionsApp.doOperation,this.onDoOperation);
-        this.listenTo(ActionsApp.doOperation,this.onDoOperationWs);
+        //this.listenTo(ActionsApp.doOperation,this.onDoOperation);
+        //this.listenTo(ActionsApp.doOperation,this.onDoOperationWs);
     },
     getRes : function () {
         return this.res;
@@ -30,6 +31,7 @@ var StoresApp = Reflux.createStore({
             data: {exp1:2,exp2:9}
         })
         .done(function (data) {
+                console.log(data);
                 this.res["key1"] = data;
                 this.trigger(this.res);
          });

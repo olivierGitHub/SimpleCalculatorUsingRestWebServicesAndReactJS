@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="946ab498-d528-411e-9c8f-8319912a59be" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/js/actions/ActionsApp.js" afterPath="$PROJECT_DIR$/web/js/actions/ActionsApp.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/services/AddServices.java" afterPath="$PROJECT_DIR$/src/main/java/com/services/AddServices.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/js/stores/StoresApp.js" afterPath="$PROJECT_DIR$/web/js/stores/StoresApp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/js/app.js" afterPath="$PROJECT_DIR$/web/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/appTarget.js" afterPath="$PROJECT_DIR$/web/target/appTarget.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -83,13 +81,8 @@
       <file leaf-file-name="MyServices.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rest/MyServices.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#276#284#0" expanded="false" />
-                <element signature="e#418#419#0" expanded="false" />
-                <element signature="e#451#452#0" expanded="false" />
-              </folding>
+            <state line="22" column="1" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="391">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,7 +90,7 @@
       <file leaf-file-name="AddServices.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/services/AddServices.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="26" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+            <state line="19" column="32" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -106,25 +99,25 @@
       <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+            <state line="28" column="0" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StoresApp.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="StoresApp.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/js/stores/StoresApp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="30" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="765">
+            <state line="33" column="34" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.79586565" vertical-offset="253" max-vertical-offset="799">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="6" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.5555556" vertical-offset="703" max-vertical-offset="2125">
+            <state line="54" column="6" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.0" vertical-offset="703" max-vertical-offset="2125">
               <folding />
             </state>
           </provider>
@@ -133,7 +126,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="374">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
@@ -151,7 +144,7 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="731">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
               <folding />
             </state>
           </provider>
@@ -160,7 +153,7 @@
       <file leaf-file-name="ActionsApp.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/js/actions/ActionsApp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="19" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+            <state line="4" column="19" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="238">
               <folding />
             </state>
           </provider>
@@ -183,9 +176,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/rest/MyServices.java" />
         <option value="$PROJECT_DIR$/web/js/actions/ActionsApp.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/services/AddServices.java" />
         <option value="$PROJECT_DIR$/web/js/app.js" />
         <option value="$PROJECT_DIR$/web/js/stores/StoresApp.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/services/AddServices.java" />
       </list>
     </option>
   </component>
@@ -230,8 +223,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -261,6 +254,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleCalculatorUsingRestWebServicesAndReactJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleCalculatorUsingRestWebServicesAndReactJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -762,17 +773,22 @@
       <created>1447549796309</created>
       <updated>1447549796309</updated>
       <workItem from="1447549799548" duration="1604000" />
-      <workItem from="1447704609877" duration="3862000" />
+      <workItem from="1447704609877" duration="5173000" />
+      <workItem from="1447787133439" duration="2969000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;">
       <created>1447550721518</created>
       <updated>1447550721518</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Rest request to fix">
+      <created>1447716678962</created>
+      <updated>1447716678962</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5466000" />
+    <option name="totallyTimeSpent" value="9746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -821,7 +837,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Initial commit&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
+    <MESSAGE value="Rest request to fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rest request to fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -833,6 +850,76 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="19" selection-start="1884" selection-end="1884" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rest/MyServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="1" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/services/AddServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="26" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/stores/StoresApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="10" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="6" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.0" vertical-offset="703" max-vertical-offset="2125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/actions/ActionsApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="19" selection-start="1884" selection-end="1884" vertical-scroll-proportion="0.0" vertical-offset="314" max-vertical-offset="1037">
           <folding />
         </state>
@@ -841,12 +928,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rest/MyServices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="1" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="493">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#276#284#0" expanded="false" />
-            <element signature="e#418#419#0" expanded="false" />
-            <element signature="e#451#452#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -885,18 +967,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rest/MyServices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#276#284#0" expanded="false" />
-            <element signature="e#418#419#0" expanded="false" />
-            <element signature="e#451#452#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
@@ -911,13 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/services/AddServices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="387">
@@ -925,16 +988,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/stores/StoresApp.js">
+    <entry file="file://$PROJECT_DIR$/web/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="765">
+        <state line="54" column="6" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.0" vertical-offset="703" max-vertical-offset="2125">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/app.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rest/MyServices.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="6" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.5555556" vertical-offset="703" max-vertical-offset="2125">
+        <state line="22" column="1" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/services/AddServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="32" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/stores/StoresApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="34" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.79586565" vertical-offset="253" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
