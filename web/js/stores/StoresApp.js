@@ -21,20 +21,23 @@ var StoresApp = Reflux.createStore({
         this.res["key1"] = var1+var2
         //this.res.push(var1+var2);
         this.trigger(this.res)
-        //return this.res1;
+        //return this.res1;//
     },
-    onDoOperationWs: function () {
+    onDoOperationWs: function (var1, var2) {
         $.ajax({
             url: 'http://localhost:8080/app/rest/operation/add',
             type: 'GET',
             contentType: 'application/json; charset=utf-8',
-            data: {exp1:2,exp2:9}
-        })
-        .done(function (data) {
+            data: {exp1:var1,exp2:var2},
+            context:this,
+        //})//
+        //.done(function (data) {
+        success: function(data) {
                 console.log(data);
                 this.res["key1"] = data;
                 this.trigger(this.res);
-         });
+        }
+        });
 
     }
 });

@@ -49,7 +49,7 @@ var Main = React.createClass({
     handleClick:function(event){
         event.preventDefault();
         //ActionsApp.doOperation(parseInt(this.state.exp1),parseInt(this.state.exp2));
-        ActionsApp.doOperationWs();
+        ActionsApp.doOperationWs(parseInt(this.state.exp1),parseInt(this.state.exp2));
         this.setState({exp1: '0'});
         this.setState({exp2: '0'});
     },
